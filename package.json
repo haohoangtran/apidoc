@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "apidoc": "^0.28.1"
+  },
+  "bin": {
+    "thanglongdoc": "bin/thanglongdoc"
+  },
+  "name": "@thanglongtcd/thanglongdoc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "haohoangtran",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haohoangtran/apidoc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/haohoangtran/apidoc/issues"
+  },
+  "homepage": "https://github.com/haohoangtran/apidoc#readme",
+  "description": ""
+}
