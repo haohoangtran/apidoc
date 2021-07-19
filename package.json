@@ -1,13 +1,13 @@
 {
   "dependencies": {
-    "apidoc": "^0.28.1"
+    "apidoc": "^0.28.1",
+    "commander": "^8.0.0",
+    "nodemon": "^2.0.12"
   },
-  "bin": {
-    "thanglongdoc": "bin/thanglongdoc"
-  },
+  "bin": "bin/thanglongdoc",
   "preferGlobal": true,
   "name": "@thanglongtcd/thanglongdoc",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
@@ -15,7 +15,7 @@
   },
   "keywords": [],
   "author": "haohoangtran",
-  "license": "ISC",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/haohoangtran/apidoc.git"

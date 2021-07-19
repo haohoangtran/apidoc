@@ -1,16 +1,5 @@
 #!/usr/bin/env node
-
 'use strict';
-
-/*
- * apidoc
- * http://apidocjs.com
- *
- * Copyright (c) 2013-2016 inveris OHG
- * Author Peter Rottmann <rottmann@inveris.de>
- * Licensed under the MIT license.
- */
-
 var path   = require('path');
 var cmd    = require('commander');
 var nodemon = require('nodemon');
